@@ -1,11 +1,35 @@
-import streamlit as st
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Simple Website</h1>
+    </header>
 
-#emoji
-st.set_page_config(page_title="My Website", page_icon=":tada:", layout="wide")
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
 
-#awal
-st.subheader("Hi, Sky Here!")
-st.title("First website")
-st.write("doing whatever this is...")
-st.subheader("Monday")
-st.number_input('Pick a number', 0,10)
+    <main>
+        <section>
+            <h2>About</h2>
+            <p>This is a simple website created using HTML.</p>
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <p>You can reach us at example@example.com.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 My Simple Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>

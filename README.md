@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>My Simple Website</title>
+    <title>Loe Kontol XD</title>
 </head>
 <body>
     <header>

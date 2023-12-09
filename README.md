@@ -1,10 +1,7 @@
-<html>
-<head>
-    <title>Loe Kontol XD</title>
 </head>
 <body>
     <header>
-        <h1>Welcome to My Simple Website</h1>
+        <h1>Loe Kontol XD</h1>
     </header>
 
     <nav>

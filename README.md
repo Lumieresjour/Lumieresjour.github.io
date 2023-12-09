@@ -1,4 +1,3 @@
-</head>
 <body>
     <header>
         <h1>Loe Kontol XD</h1>

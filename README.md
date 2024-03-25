@@ -1,10 +1,4 @@
 <html>
-<head>
-<style>
-table {
-}
-</style>
-</head>
 <body>
     <table border="5" cellspacing="3" cellpadding="5">
    <tr>

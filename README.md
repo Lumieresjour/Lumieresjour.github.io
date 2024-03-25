@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Tugas 03</title>
 <style>
 table {
   width: 70%;

@@ -2,8 +2,6 @@
 <head>
 <style>
 table {
-  width: 70%;
-  height: 300px;
 }
 </style>
 </head>
